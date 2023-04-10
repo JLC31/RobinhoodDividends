@@ -6,7 +6,7 @@ Robinhood Dividend Tracker is a Python script for automatically tracking dividen
 
 First, begin by following the tutorial for establishing a connection between Google Sheets and Python by following the video by Youtube user Tech With Tim found [here](https://www.youtube.com/watch?v=cnPlKLEGR7E).
 
-Note: This script currently relies on the user being present when running the script in order to input the MFA code sent by Robinhood to authenticate the user.
+Note: This script currently relies on the user being present when running the script in order to input the MFA code sent by Robinhood to authenticate the user. Further automation could be used to automatically input MFA. 
 
 ## Features
 
